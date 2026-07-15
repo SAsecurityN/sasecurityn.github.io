@@ -34,11 +34,11 @@ Here, I look forward to share my experience, thoughts, and knowledge.
 - eJPT
 ![eJPT](/assets/img/eJPT.jpg)
 - eWPT
-![eWPT](/assets/img/eWPT.png)
+![eWPT](/assets/img/eWPT.jpg)
 - eCPPT
-![eCPPT](/assets/img/eCPPT.png)
+![eCPPT](/assets/img/eCPPT.jpg)
 - COAE
-![COAE](/assets/img/COAE.png)
+![COAE](/assets/img/COAE.jpg)
 
 ### Additional:
 Additionally, I have also developed my own obsidian theme named "SAzure Glass", you can check it out here: 
