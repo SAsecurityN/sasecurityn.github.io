@@ -30,14 +30,15 @@ And many, many other ones...
 
 Here, I look forward to share my experience, thoughts, and knowledge.
 
-## Certifications:
+## Certs:
 - eJPT
-
+![eJPT](/assets/img/eJPT.jpg)
 - eWPT
-
+![eWPT](/assets/img/eWPT.png)
 - eCPPT
-
+![eCPPT](/assets/img/eCPPT.png
 - COAE
+![COAE](/assets/img/COAE.png)
 
 ### Additional:
 Additionally, I have also developed my own obsidian theme named "SAzure Glass", you can check it out here: 
