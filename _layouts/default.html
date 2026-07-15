@@ -4,7 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/sa-favicon-32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/sa-favicon-16.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/sa-apple-touch-icon.png' | relative_url }}">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -15,14 +21,13 @@
     <a class="prompt" href="{{ '/' | relative_url }}">0trc@sasecurityn<span class="tilde">:~</span>$<span class="cursor" aria-hidden="true"></span></a>
     <p class="site-tag">{{ site.description }}</p>
   </header>
- 
+
   <main class="content">
     {{ content }}
   </main>
- 
+
   <footer class="site-footer">
     <span>© {{ 'now' | date: "%Y" }} Said-Abbosxon Nabijonov</span>
-    <span class="sep">·</span>
   </footer>
 </body>
 </html>
