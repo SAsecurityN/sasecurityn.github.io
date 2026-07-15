@@ -2,15 +2,15 @@
 layout: default
 ---
 
-I'm **Said-Abbosxon Nabijonov** - Professional Penetration Tester, who has started his journey in cyber back in May 2024.
+Hello! 
+I'm **Said-Abbosxon Nabijonov** - certified penetration tester, who has started his journey in cyber from 0 back in May, 2024. 
+I first started as a Blue Teamer, and transitioned into Red Teaming after very short time.
 
-## log
+I have experience both in Bug Bounty, VDPs, Real Life Pentests, successfully finding 100+ vulnerabilities, which could have resulted in huge damage to the CIA triad
+Certifications:
+- eJPT
+- eWPT
+- eCPPT
+- COAE
 
-<ul class="post-list">
-{% for post in site.posts %}
-  <li>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+Here, I am to share my experience, thoughts, and knowledge.
