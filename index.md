@@ -36,7 +36,7 @@ Here, I look forward to share my experience, thoughts, and knowledge.
 - eWPT
 ![eWPT](/assets/img/eWPT.png)
 - eCPPT
-![eCPPT](/assets/img/eCPPT.png
+![eCPPT](/assets/img/eCPPT.png)
 - COAE
 ![COAE](/assets/img/COAE.png)
 
