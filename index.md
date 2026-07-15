@@ -13,4 +13,4 @@ Certifications:
 - eCPPT
 - COAE
 
-Here, I am to share my experience, thoughts, and knowledge.
+Here, I look forward to share my experience, thoughts, and knowledge.
