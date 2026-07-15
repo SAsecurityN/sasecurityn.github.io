@@ -40,10 +40,16 @@ Here, I look forward to share my experience, thoughts, and knowledge.
 - COAE
 ![COAE](/assets/img/COAE.jpg)
 
+
+
+
 ### Additional:
 Additionally, I have also developed my own obsidian theme named "SAzure Glass", you can check it out here: 
 - https://community.obsidian.md/themes/sazure-glass
 - https://github.com/sasecurityn/SAzure-Glass
+
+
+
 
 ### Social Media:
 - X: https://x.com/0trccc
