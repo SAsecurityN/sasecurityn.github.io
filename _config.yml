@@ -1,3 +1,5 @@
 title: 0trc | Said-Abbosxon Nabijonov
 description: Experiences, Security, Red Teaming, Pentesting, Certs reviews, etc....
-theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: dark
