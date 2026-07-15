@@ -38,9 +38,8 @@ Here, I look forward to share my experience, thoughts, and knowledge.
 
 ## Additional:
 Additionally, I have also developed my own obsidian theme named "SAzure Glass", you can check it out here: 
-- https://community.obsidian.md/themes/sazure-glass
-- https://github.com/sasecurityn/SAzure-Glass
-
+* [SAzure Glass on Obsidian community themes](https://community.obsidian.md/themes/sazure-glass)
+* [SAzure-Glass on GitHub](https://github.com/sasecurityn/SAzure-Glass)
 
 
 ## Certs:
