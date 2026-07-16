@@ -8,6 +8,13 @@ In this blog I aim to share my experiences, opinions, advise, and knowledge on v
 # Whoami
 I'm **Said-Abbosxon Nabijonov** - certified penetration tester and bug bounty hunter, who started his journey in cyber from 0 back in May, 2024. Found 100+ vulnerabilities in various kinds of software and sectors - LLMs, Web apps, APIs, in sectors from Medicine to Logistics.
 
+
+
+
+
+
+
+
 # My story: 
 ## 2024: 
 Playing Minecraft and installing some mods, wanting to make this game a "boss rush" using mods, yet as I try more mods, I keep wanting to find a mod that would suit me better. In May, I decide to create my own mod and find out that I have to learn JavaScript, and start thinking about it. Then, I start seeing some cybersecurity-related content - especially LetsDefend. So, one day I'm just walking back home and feel something, as if it is my destiny to start it.
