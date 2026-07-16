@@ -1,5 +1,8 @@
 title: 0trc | Said-Abbosxon Nabijonov
-description: Experiences, Security, Red Teaming, Pentesting, Certs reviews, etc....
+description: Said-Abbosxon Nabijonov (0trc) — certified penetration tester. Red teaming, AD & infrastructure pentesting, AI red teaming, cert reviews, and field notes.
 url: "https://sasecurityn.github.io"
+author: Said-Abbosxon Nabijonov
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
