@@ -60,18 +60,28 @@ Additionally, I created my own obsidian theme named "SAzure Glass", which you ca
 
 
 ## Certs:
-- **eJPT** - Junior Penetration Tester cert from INE Security. My very first cert in this field. After this course, I was familair with what EternalBlue is, and comofrtable with using the terminal, especially with using tools like Nmap and Metasploit.
+- **eJPT**
 
 ![eJPT](/assets/img/eJPT.jpg)
+Junior Penetration Tester cert from INE Security. My very first cert in this field. After this course, I was familair with what EternalBlue is, and comofrtable with using the terminal, especially with using tools like Nmap and Metasploit.
 
-- **eWPT** - Professional Web Application Penetration Tester cert from INE Security. Built a deeper understanding in me about Web Application security, learnt deeper about such automated tools like BurpSuite, OWASP ZAP, Nuclei, Nikto, and WPScan.
+
+
+- **eWPT**
 
 ![eWPT](/assets/img/eWPT.jpg)
+Professional Web Application Penetration Tester cert from INE Security. Built a deeper understanding in me about Web Application security, learnt deeper about such automated tools like BurpSuite, OWASP ZAP, Nuclei, Nikto, and WPScan.
 
-- **eCPPT** - Certified Professional Penetration Tester cert from INE Security. This exam was no joke. The course was awesome, but I believe that there are some sections in it that should be removed, and some techniques are, I believe, outdated. Great course to build fundamental understanding and experience of how internal and AD pentests work, how to privesc, brute force, and move laterally. Prerequisites: Have understanding of core penetration testing topics, some real world experience, and I'd recommend you would go here maybe after both eWPT and eJPT, alongside with real life experience.
+
+
+- **eCPPT**
 
 ![eCPPT](/assets/img/eCPPT.jpg)
+Certified Professional Penetration Tester cert from INE Security. This exam was no joke. The course was awesome, but I believe that there are some sections in it that should be removed, and some techniques are, I believe, outdated. Great course to build fundamental understanding and experience of how internal and AD pentests work, how to privesc, brute force, and move laterally. Prerequisites: Have understanding of core penetration testing topics, some real world experience, and I'd recommend you would go here maybe after both eWPT and eJPT, alongside with real life experience.
 
-- **COAE** - Certified Offensive AI Expert from HackTheBox. The exam was challenging, truly, but I enjoyed the exam. The course is as good as it gets - it builds your understanding of ML, LLMs, underlaying concepts and their use cases from 0 and then it takes you to a whole new, expert level. The course teaches you about both ML and LLM attacks, not just the prompt injection but whole spectre - awesome course, awesome. Prerequisites: Have prior web, reporting, and internal pentesting knowledge. I recommend you go here after CWES and CPTS or similair web and internal pentest certs.
+
+
+- **COAE**
 
 ![COAE](/assets/img/COAE.jpg)
+Certified Offensive AI Expert from HackTheBox. The exam was challenging, truly, but I enjoyed the exam. The course is as good as it gets - it builds your understanding of ML, LLMs, underlaying concepts and their use cases from 0 and then it takes you to a whole new, expert level. The course teaches you about both ML and LLM attacks, not just the prompt injection but whole spectre - awesome course, awesome. Prerequisites: Have prior web, reporting, and internal pentesting knowledge. I recommend you go here after CWES and CPTS or similair web and internal pentest certs.
