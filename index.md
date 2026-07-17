@@ -6,7 +6,7 @@ layout: default
 In this blog I aim to share my experiences, opinions, advise, and knowledge on various topics that resonate with me - from web app pentesting to AI red teaming. 
 
 # Whoami
-I'm **Said-Abbosxon Nabijonov** - certified penetration tester and bug bounty hunter, who started his journey in cyber from 0 back in May, 2024. Found 100+ vulnerabilities in various kinds of software and sectors - LLMs, Web apps, APIs, in sectors from Medicine to Logistics.
+I'm **Said-Abbosxon Nabijonov** - cybersecurity professional (penetration tester), who started his journey in cyber from 0 back in May, 2024. Found 100+ vulnerabilities in various kinds of software and sectors - LLMs, Web apps, APIs, in sectors from Medicine to Logistics. 
 
 
 <a href="{% post_url 2026-07-16-my-story %}" style="display:inline-block;margin-top:14px;padding:10px 22px;background:#39d98a;color:#0a0e12;font-weight:600;text-decoration:none;border-radius:8px;font-family:monospace;">My Story</a>
