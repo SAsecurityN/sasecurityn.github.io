@@ -37,6 +37,7 @@ I'm **Said-Abbosxon Nabijonov** - cybersecurity professional (penetration tester
 - API Vulnerabilities
 - Default credentials that led to an exposure of 5000+ records of sensitive data
 - 403 Bypass
+
 And many, many other ones...
 
 ## My Social Media:
