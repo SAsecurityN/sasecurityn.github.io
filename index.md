@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![](/assets/img/image.jpg)
+
 # Hello! 
 In this blog I aim to share my experiences, opinions, advise, and knowledge on various topics that resonate with me - from web app pentesting to AI red teaming. 
 
