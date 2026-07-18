@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/img/image.jpg
 ---
 
 ![](/assets/img/image.jpg){: .hero}
