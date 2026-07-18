@@ -1,7 +1,8 @@
 title: 0trc | Said-Abbosxon Nabijonov
-description: Said-Abbosxon Nabijonov (0trc) — Penetration tester, Red teamer. 
+description: Said-Abbosxon Nabijonov (0trc) — Penetration tester, Red teamer.
 url: "https://sasecurityn.github.io"
 author: Said-Abbosxon Nabijonov
+image: /assets/img/og-card.jpg
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
