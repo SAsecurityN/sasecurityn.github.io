@@ -129,7 +129,31 @@ strong { font-weight: 600; color: #fff; }
 
 .post-title { margin: 0 0 1.5rem; }
 
-.post-body img { max-width: 100%; border-radius: 4px; }
+
+/* ---- images (homepage .content + article .post-body) ---- */
+.content img,
+.post-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+}
+
+/* hero banner — slim cinematic crop, anchored on the tower */
+.content img.hero {
+  width: 100%;
+  aspect-ratio: 2 / 1;      /* try 21 / 9 for even slimmer, 16 / 9 for taller */
+  object-fit: cover;
+  object-position: center;
+  margin: 0.5rem auto 2.5rem;
+  border-radius: 8px;
+}
+
+/* optional: keep cert scans from dominating the column */
+.content img.cert {
+  max-width: 480px;
+}
 
 .post-body blockquote {
   margin: 1.25rem 0;
@@ -180,4 +204,5 @@ pre code { background: none; padding: 0; font-size: 0.82rem; }
 @media (max-width: 480px) {
   html { font-size: 16px; }
   .post-list li { flex-direction: column; gap: 0.1rem; }
+  .content img.hero { aspect-ratio: 16 / 9; }  /* taller on mobile so it doesn't get too thin */
 }
