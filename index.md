@@ -22,12 +22,13 @@ I'm **Said-Abbosxon Nabijonov** - cybersecurity professional (penetration tester
 - Web Application Penetration Testing
 
 ## Notable findings:
-**Bug Bounties**: 
+**Bug Bounties and Security Testing outside of job**: 
 - Reflected XSS
 - HTML Injection
 - Prompt Injection
 - LLM Sensitive Information Disclosure
-- 2FA Bypass 
+- 2FA Bypass
+- Stored XSS
 
 **Penetration Tests**:
 - IDORs
@@ -45,6 +46,7 @@ And many, many other ones...
 * LinkedIn: [in/0trc](https://www.linkedin.com/in/0trc)
 * Medium: [@0trccccc](https://medium.com/@0trccccc)
 * HackTheBox: [my public profile](https://profile.hackthebox.com/profile/019db9f4-0094-7091-be1d-04c72b73f071)
+* GitHub: [SaSecurityN](/https://github.com/SAsecurityN)
 
 ## Additional:
 Additionally, I created my own obsidian theme named "SAzure Glass", which you can take a look at here: 
