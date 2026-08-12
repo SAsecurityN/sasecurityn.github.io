@@ -47,10 +47,16 @@ And many, many other ones...
 * Medium: [@0trccccc](https://medium.com/@0trccccc)
 * HackTheBox: [my public profile](https://profile.hackthebox.com/profile/019db9f4-0094-7091-be1d-04c72b73f071)
 
-## Additional:
-Additionally, I created my own obsidian theme named "SAzure Glass", which you can take a look at here: 
+## My creations:
+My "SAzure Glass" Obsidian theme: 
 * [SAzure Glass on Obsidian community themes](https://community.obsidian.md/themes/sazure-glass)
 * [SAzure-Glass on GitHub](https://github.com/sasecurityn/SAzure-Glass)
+
+"JSlooting" - static analysis of .js files for potentially sensitive info:
+* [JSlooting on Github](https://github.com/SAsecurityN/JSlooting)
+
+"BloodlessAPI" - offline API map surfacer
+* [BloodlessAPI on Github](https://github.com/SAsecurityN/BloodlessAPI)
 
 
 ## Certs:
