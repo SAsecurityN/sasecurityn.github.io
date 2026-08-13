@@ -55,7 +55,7 @@ And many, many other ones...
 "JSlooting" - static analysis of .js files for potentially sensitive info:
 * [JSlooting on Github](https://github.com/SAsecurityN/JSlooting)
 
-"BloodlessAPI" - offline API map surfacer
+"BloodlessAPI" - offline API surface mapper;
 * [BloodlessAPI on Github](https://github.com/SAsecurityN/BloodlessAPI)
 
 
