@@ -4,15 +4,15 @@
 <ul class="post-list">
   {% for post in items %}
   <li>
+    <div class="post-head">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </div>
     {% if post.image %}
-    <a class="post-thumb" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    <a class="post-preview" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
       <img src="{{ post.image | relative_url }}" alt="">
     </a>
     {% endif %}
-    <div class="post-info">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-    </div>
   </li>
   {% endfor %}
 </ul>
