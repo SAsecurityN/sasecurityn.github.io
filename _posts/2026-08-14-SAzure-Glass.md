@@ -5,7 +5,7 @@ date: 2026-08-14
 category: creations
 ---
 
-So I had multiple Obsidian themes installed - all of them had something to offer, yet none of them united the functionality of all three - therefore I decided to do it myself
+So I had multiple Obsidian themes installed - all of them had something to offer, yet none of them united the functionality of the 3 themes I liked the most - therefore I decided to do it myself.
 
 Here's a quick look at my Obsidian theme:
 ![A look at](/assets/img/screenshot.png)
