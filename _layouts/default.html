@@ -14,8 +14,16 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header class="site-header">
+  <nav class="site-nav">
     <a class="prompt" href="{{ '/' | relative_url }}">0trc@sasecurityn<span class="tilde">:~</span>$<span class="cursor" aria-hidden="true"></span></a>
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+      <a href="{{ '/posts/' | relative_url }}"{% if page.url contains '/posts' or page.categories contains 'posts' %} class="active"{% endif %}>Posts</a>
+      <a href="{{ '/reviews/' | relative_url }}"{% if page.url contains '/reviews' or page.categories contains 'reviews' %} class="active"{% endif %}>Reviews</a>
+      <a href="{{ '/creations/' | relative_url }}"{% if page.url contains '/creations' or page.categories contains 'creations' %} class="active"{% endif %}>Creations</a>
+    </div>
+  </nav>
+  <header class="site-header">
     <p class="site-tag">{{ site.description }}</p>
   </header>
   <main class="content">
