@@ -20,7 +20,8 @@ Features:
 Recommended settings:
 ![Settings](/assets/img/settings.png)
 
-## **You can download the theme here:**
+## You can download the theme here:
 [SAzure Glass on the Obsidian community themes](https://community.obsidian.md/themes/sazure-glass)
+
 
 *Or just navigate to `Settings` in Obsidian, `Appearance` -> `Themes` -> `Manage` -> Search for "SAzure Glass" and install it.*
