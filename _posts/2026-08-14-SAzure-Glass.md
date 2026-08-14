@@ -11,6 +11,8 @@ So I had multiple Obsidian themes installed - all of them had something to offer
 Here's a quick look at my Obsidian theme:
 ![A look at](/assets/img/screenshot.png)
 
+***NOTE***: The cool bar you see in the image is from another plugin, it's not included in my theme!
+
 Features:
 - Big, bold headings (Willemstadt style)
 - HackTheBox-inspired green accents + navy/neon note pane
