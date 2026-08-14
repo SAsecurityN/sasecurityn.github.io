@@ -4,7 +4,7 @@ title: Posts
 permalink: /posts/
 ---
 
-# posts
+## Posts
 Experiences, opinions, and knowledge
 
 {% include post-list.html category="posts" %}
