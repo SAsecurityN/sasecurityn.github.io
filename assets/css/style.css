@@ -98,6 +98,19 @@ body {
   letter-spacing: 0.02em;
 }
 
+.site-tag--home {
+  color: #fff;
+  font-size: 1.35rem;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1.4;
+}
+
+@media (max-width: 480px) {
+  .site-tag--home { font-size: 1.1rem; }
+}
+
 h1, h2, h3 {
   font-family: var(--mono);
   font-weight: 500;
@@ -140,22 +153,46 @@ strong { font-weight: 600; color: #fff; }
 
 .post-list li {
   display: flex;
-  gap: 1.25rem;
-  align-items: baseline;
-  padding: 0.55rem 0;
+  gap: 1rem;
+  align-items: center;
+  padding: 0.85rem 0;
   border-bottom: 1px solid var(--rule);
 }
 
-.post-list time {
-  font-family: var(--mono);
-  font-size: 0.8rem;
-  color: var(--muted);
+.post-thumb {
   flex-shrink: 0;
+  width: 104px;
+  height: 66px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--rule);
 }
 
-.post-list a { font-weight: 600; color: var(--text); }
+.post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  border-radius: 0;
+}
 
-.post-list a:hover { color: var(--amber); border-bottom-color: transparent; }
+.post-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.post-info time {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.post-info a { font-weight: 600; color: var(--text); }
+
+.post-info a:hover { color: var(--amber); border-bottom-color: transparent; }
 
 .post-meta {
   font-family: var(--mono);
@@ -245,6 +282,6 @@ pre code { background: none; padding: 0; font-size: 0.82rem; }
   html { font-size: 16px; }
   .site-nav { gap: 0.5rem 1rem; }
   .nav-links { gap: 1.1rem; font-size: 0.8rem; }
-  .post-list li { flex-direction: column; gap: 0.1rem; }
+  .post-thumb { width: 84px; height: 54px; }
   .content img.hero { aspect-ratio: 16 / 9; }
 }
