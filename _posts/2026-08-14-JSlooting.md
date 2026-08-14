@@ -8,12 +8,12 @@ image: /assets/img/screenshot1.png
 
 During one of my pentests, I have encountered a `.js` file that became a foundational stone in a chain that ended with Admin access, you can read that exact story on my Medium: [How a JS file led to Admin Access](https://medium.com/@0trccccc/how-a-javascript-file-led-me-to-an-admin-access-3acd501ecdc9)
 
-During one another pentest, I encountered a `.js` file that exposed API keys.
+During another pentest, I encountered a `.js` file that exposed API keys.
 
 However, there was one problem with those `.js` files - I had to manually dig through them, `CTRL + F` and search for interesting info, and so on - that's why I decided to build ***JSlooting*** - a tool for extraction and finding of interesting/sensitive information, like:
 
 - Secrets / API Keys
-- IP Adresses
+- IP Addresses
 - Emails
 - Hosts / Subdomains
 - URLs
