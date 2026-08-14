@@ -3,6 +3,7 @@ layout: post
 title: "SAzure Glass - an Obsidian theme created by me"
 date: 2026-08-14
 category: creations
+image: /assets/img/screenshot.png
 ---
 
 So I had multiple Obsidian themes installed - all of them had something to offer, yet none of them united the functionality of the 3 themes I liked the most - therefore I decided to do it myself.
