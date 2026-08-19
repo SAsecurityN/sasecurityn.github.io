@@ -20,11 +20,6 @@ The new theme is "Ember Glazz", take a look:
 ![img](/assets/img/showcase2.png)
 
 
-Here's a quick look at my Obsidian theme:
-![A look at](/assets/img/screenshot.png)
-
-***NOTE***: The cool bar you see in the image is from another plugin, it's not included in my theme!
-
 Features:
 - Frosted glass panels
 - Adjustable glass blur and transparency via Style Settings plugin
