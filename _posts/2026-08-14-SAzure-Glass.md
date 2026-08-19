@@ -17,7 +17,7 @@ Features:
 - Big, bold headings (Willemstadt style)
 - HackTheBox-inspired green accents + navy/neon note pane
 - Clean blue-ish color palette
-- Blur-ish (adjust settings via "Style Settings plugin)
+- Blur-ish (adjust settings via "Style Settings" plugin)
 
 Recommended settings:
 ![Settings](/assets/img/settings.png)
