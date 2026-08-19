@@ -28,11 +28,14 @@ Features:
 - Gem-style horizontal rule divider
 - Tag pills, tables, and blockquotes tuned for the darker and crimson look
 
+
+
 Recommended settings:
+
 ![Settings](/assets/img/settings2.png)
 
 ## You can download/add the theme here:
 [Ember Glazz on the Obsidian community themes](https://community.obsidian.md/themes/ember-glazz)
 
 
-*Or just navigate to `Settings` in Obsidian, `Appearance` -> `Themes` -> `Manage` -> Search for "SAzure Glass" and install it.*
+*Or just navigate to `Settings` in Obsidian, `Appearance` -> `Themes` -> `Manage` -> Search for "Ember Glazz" and install it.*
