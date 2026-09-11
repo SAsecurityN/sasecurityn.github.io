@@ -6,7 +6,7 @@ category: creations
 image: /assets/img/showcase3.png
 ---
 
-As you might know, I had created my own Obsidian theme before (SAzure Glass) - a post on it you can find here: https://sasecurityn.github.io/creations/2026/08/14/SAzure-Glass.html
+As you might know, I had created my own Obsidian theme before (SAzure Glass) - a post on it you can find here: [SAzure-Glass](https://sasecurityn.github.io/creations/2026/08/14/SAzure-Glass.html)
 
 Yet, the thing is, after using *SAzure Glass* for a bit, either I got too used to it, but I wanted a darker theme, in colors that I like - so I decided to create another theme. 
 
